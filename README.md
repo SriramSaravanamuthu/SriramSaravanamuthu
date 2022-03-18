@@ -18,3 +18,12 @@
 - 👋 Hi, I’m Sriram
 - 👀 I’m interested in Deep learning and Computer Vision.
 - 💞️ I’m looking to collaborate on Research projects focused on computer vison and deep learning
+
+ <hr>
+ <p>
+ I'm a self taught python programmer interested in Artificial Intelligence and Machine Learning, deeply interested in projects focused on computer vision using Deep learning.
+ </p>
+ <p>
+ I have hands on experience in using Tensorflow framework for construction of deep neural network and I have explored CNN for image classification and YOLO architechture for object detection.
+ </p>
+ 
